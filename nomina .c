@@ -12,7 +12,7 @@ int main(){
     
 }
 void menu(){
-    int opc,i=0,j,k;
+    int opc;
     
     do{
         printf("\n1.-datos indentificativos de la empresa");
