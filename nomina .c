@@ -18,7 +18,7 @@ void menu(){
         printf("\n1.-datos indentificativos de la empresa");
         printf("\n2.-datos basicos del trabajador");
         printf("\n3.-periodo de liquidacion");
-        printf("\n4.-detallle de las perceepciones ");
+        printf("\n4.-detalle de las percepciones ");
         printf("\n5.-detalle de las deducciones");
         printf("\n6.-detalle de las bases de cotizacion");
         printf("\n7.-liquido a percibir");
