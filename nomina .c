@@ -13,7 +13,7 @@ int main(){
 }
 void menu(){
     int opc,i=0,j,k;
-    char tecla[0];
+    
     do{
         printf("\n1.-datos indentificativos de la empresa");
         printf("\n2.-datos basicos del trabajador");
